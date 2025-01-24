@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username">UserName</string>
+    <string name="password">password</string>
+    <string name="pincode">pincode</string>
+    <string name="mobile_number">mobile Number</string>
+    <string name="sign_in">Sign in</string>
+    <string name="welcome">Welcome</string>
+    <string name="hi_welcome">Hi, Welcome</string>
+    <string name="SIGNIN">SIGN IN</string>
+    <string name="guest">Guest</string>
+    <string name="Save">Save</string>
+</resources>
